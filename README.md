@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumit52005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sumit52005&limit=5&theme=neon&combine_all_yearly_contributions=true)
